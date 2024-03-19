@@ -1,0 +1,37 @@
+# Virtual environment
+venv/
+tms_venv/
+env/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+
+# Log files
+*.log
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Database
+db.sqlite3
+
+# Secret settings file
+*.secret
+
+# Configuration files
+*.cfg
+
+# Dependency directories
+node_modules/
+bower_components/
